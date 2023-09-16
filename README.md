@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **java, Competitive Coding**
 
-- 📫 How to reach me **sercodeshark@gmail.com**
+- 📫 You can reach me **krishnasinha3172@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
