@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Krishna Sinha</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font-Righteous&center=true&size=40&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I+am+Krishna+Sinha!;" /></h1>
+<h3 align="center">A Computer Science Engineer from India</h3>
+<h4 align="center">Here's more about me 😌 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekrishu31&label=Profile%20views&color=0e75b6&style=flat" alt="princekrishu31" /> </p>
 
