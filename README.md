@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **java, Competitive Coding**
 
-- 📫 You can reach me **krishnasinha3172@gmail.com**
+- 📫 You can reach me at **krishnasinha3172@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
