@@ -26,3 +26,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekrishu31&show_icons=true&locale=en&layout=compact" alt="princekrishu31" /></p></h5>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekrishu31&" alt="princekrishu31" /></p>
+<br>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
