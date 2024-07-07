@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **with like-minded individuals who share a passion for innovation and problem-solving.**
 
-- 💬 Ask me about **java, Competitive Coding**
+- 💬 Ask me about **Web Application Security & Networking**
 
 - 📫 You can reach me at **krishnasinha3172@gmail.com**
 
